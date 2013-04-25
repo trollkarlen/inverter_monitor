@@ -1676,8 +1676,8 @@ sub main() {
          my $date = &getDate_YYYYMMDD();
          my $time = &getTime_HHMM();
          print "PVOUTPUT as at " . &getDateTime() . " ...\n";
-         print "  ran: " . $config->scripts_pvoutput . " " . ($HoH{ETODAY}{VALUE} * 1000) . " $HoH{PAC}{VALUE} $date $time $HASH{SERIAL}\n";
-         system ($config->scripts_pvoutput . " " . ($HoH{ETODAY}{VALUE} * 1000) . " $HoH{PAC}{VALUE} $date $time $HASH{SERIAL}" );
+         print "  ran: " . $config->scripts_pvoutput . " " . ($HoH{ETODAY}{VALUE} * 1000) . " $HoH{PAC}{VALUE} $date $time $HASH{SERIAL} $HoH{VPV1}{VALUE} $HoH{TEMP}{VALUE}\n";
+         system ($config->scripts_pvoutput . " " . ($HoH{ETODAY}{VALUE} * 1000) . " $HoH{PAC}{VALUE} $date $time $HASH{SERIAL} $HoH{VPV1}{VALUE} $HoH{TEMP}{VALUE}" );
          &setPvoutputTimes();
        }
      }
@@ -1693,3 +1693,4 @@ sub main() {
 #######################################################################
 
 &main();
+
