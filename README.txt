@@ -43,6 +43,11 @@
    * Start > Run > cmd > cd c:/solar/scripts > perl inverter.pl "COM1"
 
 9) Set up a Windows Scheduled Task (or a Linux/Unix Cronjob), eg:
+   * For Linux 
+      crontab -e
+      Add row: */5 3-22 * * * pgrep -f "\./inverter.pl" > /dev/null || ( cd /tmp/solar/solar && ./inverter.pl >> inverter.pl.cronout 2>&1 )
+
+   * For Windows
    * Start (or My Computer) -> Control Panel -> Scheduled Tasks -> Add Scheduled Task ... etc 
    or
    * Start -> All Programs -> Administrative Tools -> Task Scheduler -> Action -> New Task -> 
