@@ -1,0 +1,35 @@
+Perl script referenced here: 
+----------------------------
+http://whirlpool.net.au/wiki/solar_software
+* CMS (Manuf=Phoenixtec)
+* Eaton (Manuf=Phoenixtec)
+* Orion (Manuf=Phoenixtec)
+* SolarLord (Manuf=KLNE???)
+* SolarRiver (Manuf=SamilPower)
+* SunEzy (Manuf=Phoenixtec)
+* SunTeams (Manuf=KLNE)
+
+
+List of code changes/Versions:
+------------------------------
+13Feb2010: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271.html#p1430
+20May2010: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271.html#p1566
+29Jan2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-60.html#p2666
+12Feb2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-80.html#p2704
+13Feb2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-80.html#p2711
+14Feb2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-80.html#p2713
+14Feb2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-80.html#p2716
+15Feb2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-100.html#p2724
+15Feb2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-100.html#p2728
+16Feb2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-100.html#p2734
+08Mar2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-120.html#p2774
+18Mar2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-120.html#p2790
+22Mar2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-120.html#p2795
+27Mar2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-140.html#p2805
+25Apr2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-140.html#p2819
+04May2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-140.html#p2829
+02Jul2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-160.html#p2905
+06Jul2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-160.html#p2911
+11Aug2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-180.html#p2964
+25Nov2011: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-220.html#p3261
+08Mar2012: http://www.solarfreaks.com/cms2000-inverter-rs232-serial-port-hack-cms-2000-rs232-t271-240.html#p3410
